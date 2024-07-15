@@ -1,7 +1,5 @@
-# typescript-open-source-template
-
-This is a template for creating a new open source project in TypeScript.
-
+# Custom kafka module
+Since nestjs wrappers do not work fully with the kafkajs library, there was a need to create a library that takes into account all the customizations and features of working with kafkajs
 ## Features
 * [TypeScript](https://www.typescriptlang.org/)
 * [Jest](https://jestjs.io/)
